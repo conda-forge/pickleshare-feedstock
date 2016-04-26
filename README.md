@@ -5,7 +5,7 @@ Home: https://github.com/vivainio/pickleshare
 
 Package license: MIT
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: Tiny 'shelve'-like database with concurrency support
 
