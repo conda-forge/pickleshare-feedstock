@@ -20,7 +20,7 @@ requirements:
 
   run:
     - python
-    - python-pathlib2  # [py<34]
+    - pathlib2  # [py<34]
 
 test:
   imports:
@@ -35,3 +35,4 @@ extra:
   recipe-maintainers:
     - pelson
     - takluyver
+    - ocefpaf
