@@ -1,4 +1,4 @@
-{% set version = "0.7.2" %}
+{% set version = "0.7.3" %}
 
 package:
   name: pickleshare
@@ -7,7 +7,7 @@ package:
 source:
   fn: pickleshare-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/p/pickleshare/pickleshare-{{ version }}.tar.gz
-  md5: 29d74cde0255546b6b2e1b48a0b31a54
+  md5: 0ccdd8e65737a92eec47888dae61ff95
 
 build:
   number: 0
