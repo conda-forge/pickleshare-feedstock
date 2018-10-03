@@ -25,8 +25,9 @@ test:
     - pickleshare
 
 about:
-  home: https://github.com/vivainio/pickleshare
+  home: https://github.com/pickleshare/pickleshare/
   license: MIT
+  license_file: LICENSE
   summary: "Tiny 'shelve'-like database with concurrency support"
 
 extra:
