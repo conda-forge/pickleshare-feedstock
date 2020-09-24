@@ -18,7 +18,6 @@ requirements:
     - pip
   run:
     - python
-    - pathlib2  # [py<34]
 
 test:
   imports:
